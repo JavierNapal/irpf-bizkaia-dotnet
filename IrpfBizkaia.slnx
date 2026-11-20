@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IrpfBizkaia.Domain/IrpfBizkaia.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/IrpfBizkaia.Domain.Tests/IrpfBizkaia.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
